@@ -17,7 +17,7 @@ In this image, you are able to see data to back up the claims of Rural drivers b
 
 ![summary](./resources/summary.PNG)
 Furthermore, we can see here that over the course of a 4 month period, there was no change in our findings. Rural drivers, no matter the date, are still our most profitable drivers while drivers in Urban cities make the least per ride.
-![plot](./analysis/pyber_fare_summary.PNG)
+![plot](./analysis/pyber_fare_summary.png)
 
 
 ## Summary
