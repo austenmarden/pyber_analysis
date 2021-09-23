@@ -23,7 +23,7 @@ Furthermore, we can see here that over the course of a 4 month period, there was
 ## Summary
 In conclusion, our findings present a great disparity in the Pyber consumer experience depending on their locale. I propose the following recommendations.
 
-1.   I suspect that the greatly reduced number of rides in Rural areas is greatly to due with the cost per ride. in an effort to both make our services more affordable to entice a greater number of users, I believe we should decrease the ride costs in Rural areas. I suspect that a decrease in cost will bring in more users, increasing the demand for more drivers in the area.
+1.   I suspect that the reduced number of rides in Rural areas is greatly to due with the cost per ride. in an effort to both make our services more affordable to entice a greater number of users, I believe we should decrease the ride costs in Rural areas. I suspect that a decrease in cost will bring in more users, increasing the demand for more drivers in the area.
 
 2. Conversely to the first point, I believe that an increase in Urban city rides would provide an increase in overall revenue while having limited impact to user experience as the population is already accustomed to the ease of use PyBer provides them.
 
